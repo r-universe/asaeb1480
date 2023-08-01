@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gnFit"]
-	path = gnFit
-	url = https://github.com/cran/gnFit
 [submodule "TSEtools"]
 	path = TSEtools
 	url = https://github.com/cran/TSEtools
+[submodule "gnFit"]
+	path = gnFit
+	url = https://github.com/cran/gnFit
